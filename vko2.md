@@ -1,9 +1,9 @@
-### **Tehtävä 2.3 Lyhyt kirjoitus**
+## **Tehtävä 2.3 Lyhyt kirjoitus**
 
 <!--TEHTÄVÄ: Kuvaile miten Jekyll sivustoa voisi automatisoida käyttäen GitHub Actions-toimintoja. Vastaa myös millaisilla kehitystyökaluilla ja -tekniikoilla saataisiin CI/CD-putkisto rakennettua web-sovellukselle. Tekstimäärä noin 150 sanaa.
 -->
 
----
+
 ### Jekyll sivuston automatisointi GitHub Actions-toimintoja käyttäen
 
 GitHub Actions -pilvipalvelun avulla voidaan hallita Jekyll-sivuston CI/CD -prosessia (Continuous Integration, Continuous Deployment tai Delivery), jolloin jokaisen repositorioon tehdyn muutoksen yhteydessä automaattisesti käynnistyy työnkulku (workflow), jonka kaikki vaiheet läpikäyden sivusto päivitetään.
@@ -15,7 +15,7 @@ Työnkulku:
 - ***testaus***: varmistetaan, että sivusto rakentuu ilman virheitä.
 - ***julkaisu***: Jekyll-sivusto viedään GitHub Pages-ympäristöön.
 
-##### * [GitHub Docs](https://docs.github.com/en/pages/setting-up-a-github-pages-site-with-jekyll/about-github-pages-and-jekyll?target="_blank")
+##### * [GitHub Docs](https://docs.github.com/en/pages/setting-up-a-github-pages-site-with-jekyll/about-github-pages-and-jekyll)
 ---
 
 ### CI/CD-putkiston Web-sovellukselle rakentamisessa käytettävät kehitystyökalut ja -tekniikat
@@ -32,7 +32,7 @@ CI/CD-putkiston rakentaminen web-sovellukselle perustuu automaation ja testaukse
 Konttiteknologiat ja orkestrointi: Docker ja Kubernetes ovat suosittuja työkaluja konttien hallintaan ja orkestrointiin, ja ne integroituvat hyvin CI/CD-putkistoihin.
 
 Näillä työkaluilla rakennettu CI/CD-putkisto mahdollistaa web-sovelluksen säännölliset ja automatisoidut päivitykset, parantaen sen luotettavuutta ja suorituskykyä tuotannossa.
-##### * [Lähde 1](https://gartsolutions.medium.com/building-an-effective-ci-cd-pipeline-a-comprehensive-guide-bb07343973b7?target="_blank")
-##### * [Lähde 2](https://thectoclub.com/tools/best-ci-cd-tools/?target="_blank")
+##### * [Lähde 1](https://gartsolutions.medium.com/building-an-effective-ci-cd-pipeline-a-comprehensive-guide-bb07343973b7)
+##### * [Lähde 2](https://thectoclub.com/tools/best-ci-cd-tools/)
 ---
 *[<-- Etusivulle](index.md)*
