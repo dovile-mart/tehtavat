@@ -15,7 +15,7 @@ Työnkulku:
 - ***testaus***: varmistetaan, että sivusto rakentuu ilman virheitä.
 - ***julkaisu***: Jekyll-sivusto viedään GitHub Pages-ympäristöön.
 
-##### * [GitHub Docs](https://docs.github.com/en/pages/setting-up-a-github-pages-site-with-jekyll/about-github-pages-and-jekyll)
+##### * [GitHub Docs](https://docs.github.com/en/pages/setting-up-a-github-pages-site-with-jekyll/about-github-pages-and-jekyll?target="_blank")
 ---
 
 ### CI/CD-putkiston Web-sovellukselle rakentamisessa käytettävät kehitystyökalut ja -tekniikat
@@ -32,7 +32,7 @@ CI/CD-putkiston rakentaminen web-sovellukselle perustuu automaation ja testaukse
 Konttiteknologiat ja orkestrointi: Docker ja Kubernetes ovat suosittuja työkaluja konttien hallintaan ja orkestrointiin, ja ne integroituvat hyvin CI/CD-putkistoihin.
 
 Näillä työkaluilla rakennettu CI/CD-putkisto mahdollistaa web-sovelluksen säännölliset ja automatisoidut päivitykset, parantaen sen luotettavuutta ja suorituskykyä tuotannossa.
-##### * [Lähde 1](https://gartsolutions.medium.com/building-an-effective-ci-cd-pipeline-a-comprehensive-guide-bb07343973b7)
-##### * [Lähde 2](https://thectoclub.com/tools/best-ci-cd-tools/)
+##### * [Lähde 1](https://gartsolutions.medium.com/building-an-effective-ci-cd-pipeline-a-comprehensive-guide-bb07343973b7?target="_blank")
+##### * [Lähde 2](https://thectoclub.com/tools/best-ci-cd-tools/?target="_blank")
 ---
 *[<-- Etusivulle](index.md)*
