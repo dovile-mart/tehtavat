@@ -8,4 +8,4 @@ Lisäksi voisin seurata kuinka moni käyttäjä klikkaa erilaisia linkkejä, kut
 
 
 ---
-*[<-- Etusivulle](index.md)*
+*[<-- Etusivulle](../index.md)*
