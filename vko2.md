@@ -1,4 +1,4 @@
-## **Tehtävä 2.3 Lyhyt kirjoitus**
+## **Tehtävä 2**
 
 <!--TEHTÄVÄ: Kuvaile miten Jekyll sivustoa voisi automatisoida käyttäen GitHub Actions-toimintoja. Vastaa myös millaisilla kehitystyökaluilla ja -tekniikoilla saataisiin CI/CD-putkisto rakennettua web-sovellukselle. Tekstimäärä noin 150 sanaa.
 -->
