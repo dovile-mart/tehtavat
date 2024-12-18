@@ -46,4 +46,5 @@ Sivuston latautumisajat on testattu PageSpeed Insights -työkalulla. Ennen MUI-k
 - Cumulative Layout Shift (CLS): 0
 - Speed Index: 2.4s
 
-![Mobiili_tehokkuus](image-11.png)
+![Mobiili_tehokkuus](https://github.com/user-attachments/assets/3bfe0427-0aed-4adc-9be5-546d2f08ff66)
+
