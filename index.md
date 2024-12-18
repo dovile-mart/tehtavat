@@ -11,7 +11,7 @@ Täältä löytyvät tehtäväpalautukset:
 - **[Viikko 4](./vko4/index.html)**
 - **[Viikko 5](./vko5/vko5.md)**
 - **[Viikko 6](./vko6/index.html)**
-- **[Harjoitustyön raportti](./harjoitustyo/index.md)**
+- **[Harjoitustyön raportti](./harjoitustyo/index_harjoitustyo.md)**
 - **[Harjoitustyö](./harjoitustyo/index.html)**
 
 Muut harjoitukset:
