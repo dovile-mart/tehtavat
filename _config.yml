@@ -1,7 +1,7 @@
 title: Jekyll:iä käyttävä sivusto
 description: Tervetuloa sivustolle!
-remote_theme: pmarsceill/just-the-docs
-# pages-themes/minimal@v0.2.0
+remote_theme: pages-themes/minimal@v0.2.0
+# pmarsceill/just-the-docs
 plugins:
-- just-the-docs
-#- jekyll-remote-theme
+#- just-the-docs
+- jekyll-remote-theme
